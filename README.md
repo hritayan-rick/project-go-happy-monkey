@@ -1,1 +1,2 @@
-# project-go-happy-monkey
+# MonkeyGoHappy
+Project C42
